@@ -1,6 +1,8 @@
-body {
-  display: flex;
-}
 .practice {
   margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.main {
+  display: flex;
 }
