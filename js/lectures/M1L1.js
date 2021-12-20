@@ -1,4 +1,6 @@
 'use strict';
+
+console.log("OK");
 // let a = 0;
 
 // a = 1;

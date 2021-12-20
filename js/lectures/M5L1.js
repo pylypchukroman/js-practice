@@ -1,5 +1,6 @@
 'use strict';
 
+console.log("OK");
 // const contact = {
 //     name: "Bill",
 //     showName() {

@@ -1,3 +1,6 @@
+'use strict';
+
+console.log("OK");
 // const animal = {
 //     legs: 4,
 //     getCountLegs() {

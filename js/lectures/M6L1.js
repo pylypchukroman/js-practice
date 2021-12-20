@@ -1,3 +1,6 @@
+'use strict';
+
+console.log("OK");
 // const body = document.body;
 
 // console.log(body.childNodes);
